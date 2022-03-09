@@ -23,4 +23,10 @@ When visiting [www.cardmarket.com](https://www.cardmarket.com/en), and more prec
 ![Black Lotus Altered](https://user-images.githubusercontent.com/32172257/157504054-5d5c12ef-006b-4fc0-a7fb-1eea595b64d4.png)
 
 Go on any collectible that you want to add to your list, precise the url using the `filter` tab from cardmarket, to choose a specific langage, the minimum condition, etc. Then click on the ![Screenshot 2022-03-09 19:21:09](https://user-images.githubusercontent.com/32172257/157506229-8c43e9b5-53d3-4794-8d6d-299125a053aa.png) and it will add the link of the current page to the list.   
-You can clear this list using ![Screenshot 2022-03-09 19:24:06](https://user-images.githubusercontent.com/32172257/157506646-edebf94c-f6cb-4a97-9c5c-a6b2752bf948.png)  
+You can clear this list using ![Screenshot 2022-03-09 19:24:06](https://user-images.githubusercontent.com/32172257/157506646-edebf94c-f6cb-4a97-9c5c-a6b2752bf948.png),  
+And download it using ![Screenshot 2022-03-09 19:26:36](https://user-images.githubusercontent.com/32172257/157506992-15ec3066-757b-4743-b125-0ee1a81a2b0e.png).  
+
+The list will stay saved in your browser until you delete all the cache, or click the `- Clear` button. It wil **not** be deleted on browser restart.
+
+### Contact
+For any question, bug, observation, or just to chat, you can contact me on [CMScrape's Discord server](https://discord.gg/UR3R5C5Ehn).
